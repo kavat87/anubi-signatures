@@ -456,8 +456,10 @@
 138.188.37.115:CoinMiner::
 138.188.40.217:CoinMiner::
 14.107.43.154:CoinMiner::
+14.176.76.54:NoTag::
 14.179.238.100:Hajime::
 14.185.85.117:Backdoor_censys_sshdkit::
+14.244.210.136:NoTag::
 14.245.204.80:Backdoor_censys_sshdkit::
 14.249.209.201:NoTag::
 141.237.242.31:Hajime::
@@ -475,6 +477,7 @@
 151.242.30.234:Geofenced_m68k_Mirai_superhUSA_x86::
 151.252.73.242:Hajime::
 152.173.137.95:Backdoor_censys_sshdkit::
+152.32.151.39:NoTag::
 153.199.144.178:Mozi::
 154.121.39.151:NoTag::
 154.53.161.119:CoinMiner::
@@ -495,6 +498,7 @@
 163.142.95.84:Mozi::
 164.68.97.90:::
 165.154.36.245:NoTag::
+165.165.120.46:NoTag::
 165.232.165.152:Mirai::
 165.245.141.24:censys_CobaltStrike_Shellcode::
 167.62.40.139:Hajime::
